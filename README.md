@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kasireddy Asmitha</h1>
-<h3 align="center">Full-Stack Developer | Python, SQL & AI Automation Explorer</h3>
+<h3 align="center">Full-Stack Developer | Python, SQL & AI Automation Enthusiast</h3>
 
 - 🔭 I’m currently working on **Email Phishing Detection Using Logistic Regression**
 
 - 🌱 I’m currently learning **AI & Automation Frameworks**
 
-- 👯 I’m looking to collaborate on **Smart Agriculture Crop Recommendation System**
+- 🌾 Built Smart Agriculture Crop Recommendation System, **an ML-based solution using Logistic Regression**
 
-- 📫 How to reach me **asmithareddy2022@gmail.com**
+- 💡 Built and deployed Digital Time Capsule (live), [a full-stack app with authentication, secure storage, and time-based access control for media capsules](https://spiffy-cupcake-acdbdc.netlify.app/)
+
+- 📫 How to reach me **asmithareddykasireddy@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cQ3FvE5I1n-N4h0dlCGy1ipcFfAsbnmM/view?usp=sharing](https://drive.google.com/file/d/1cQ3FvE5I1n-N4h0dlCGy1ipcFfAsbnmM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
