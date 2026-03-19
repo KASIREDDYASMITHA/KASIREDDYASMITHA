@@ -7,7 +7,7 @@
 
 - 🌾 Built Smart Agriculture Crop Recommendation System, **an ML-based solution using Logistic Regression**
 
-- 💡 Built and deployed Digital Time Capsule (live), [a full-stack app with authentication, secure storage, and time-based access control for media capsules](https://spiffy-cupcake-acdbdc.netlify.app/)
+- 💡 Built and deployed Digital Time Capsule (live),[a full-stack app with authentication, secure storage, and time-based access control for media capsules](https://spiffy-cupcake-acdbdc.netlify.app/)
 
 - 📫 How to reach me **asmithareddykasireddy@gmail.com**
 
