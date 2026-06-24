@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasireddy Asmitha</h1>
-<h3 align="center">Full-Stack Developer | Python, SQL & AI Automation Enthusiast</h3>
+<h3 align="center">Data Analyst | Data Science Graduate | Python, SQL, Power BI & AI Enthusiast</h3>
 
 - 🔭 I’m currently working on **Email Phishing Detection Using Logistic Regression**
 
@@ -9,7 +9,7 @@
 
 - 💡 Built and deployed Digital Time Capsule (live),[a full-stack app with authentication, secure storage, and time-based access control for media capsules](https://spiffy-cupcake-acdbdc.netlify.app/)
 
-- 📫 How to reach me **asmithareddykasireddy@gmail.com**
+- 📫 How to reach me **asmithareddy2022@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cQ3FvE5I1n-N4h0dlCGy1ipcFfAsbnmM/view?usp=sharing](https://drive.google.com/file/d/1cQ3FvE5I1n-N4h0dlCGy1ipcFfAsbnmM/view?usp=sharing)
 
